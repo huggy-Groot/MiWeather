@@ -3,7 +3,7 @@ import Search from "./components/search/search";
 
 function App() {
 
-  const handleonSearchChange = (searchData) => {
+  const handleOnSearchChange = (searchData) => {
     console.log(searchData);
   }
 
