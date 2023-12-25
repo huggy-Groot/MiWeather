@@ -18,6 +18,7 @@ const Search = ({onSearchChange}) => {
 		onChange={handleOnChange}
 
 		/>
+	)
 }
 
 export default Search;
